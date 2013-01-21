@@ -1,0 +1,6 @@
+{
+    "nav-tabs": [
+        {"url": "#Girls", "title":"Girls"},
+        {"url": "#Boys", "title":"Boys"}
+    ]
+}

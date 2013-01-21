@@ -1,0 +1,19 @@
+body {background-image: url('http://demandware.edgesuite.net/aady_prd/on/demandware.static/Sites-Carters-Site/-/default/v1351062672472/themes/carters/images/carters_holiday_wallpaper.jpg')};
+.kidsImage {height: 177px; overflow: hidden }
+img {max-height: 177px;}
+.main {padding-left: 0px; padding-bottom: 60px}
+.logo {margin-left:20%; }
+.footer li {font-size: 18px; font-weight: bold;}
+a.sign { color: #777777;
+    float: none;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+a.sign:hover {text-decoration: underline; color: blue;}
+.dropdown {
+    position: relative; top: 10px;
+}
+.row-fluid {margin-top: 10px}
+
+.controls {margin-right: 10px}

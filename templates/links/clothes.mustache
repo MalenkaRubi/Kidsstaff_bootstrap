@@ -1,0 +1,78 @@
+    <div class="row-fluid span12">
+       <div class="span6">
+           <div class="row-fluid">
+               {{#clothes.0.dresses}}
+                   <div class="span4">
+                       <h3>{{title}}</h3>
+                       <dl>
+                           <dt>price</dt>
+                           <dd>{{price}}</dd>
+                       </dl>
+                   </div>
+                   <div class="span8">
+                       {{#image}}
+                            <a href="#"><img style="width: 49%; float: left" src="{{src}}"></a>
+                       {{/image}}
+                    </div>
+               {{/clothes.0.dresses}}
+            </div>
+
+       </div>
+       <div class="span6">
+            <div class="row-fluid">
+                {{#clothes.1.jeans}}
+                    <div class="span4">
+                        <h3>{{title}}</h3>
+                        <dl>
+                            <dt>price</dt>
+                            <dd>{{price}}</dd>
+                        </dl>
+                    </div>
+                    <div class="span8">
+                        {{#image}}
+                        <a href="#"><img style="width: 49%; float: left" src="{{src}}"></a>
+                        {{/image}}
+                    </div>
+                {{/clothes.1.jeans}}
+            </div>
+       </div>
+    </div>
+    <div class="row-fluid span12">
+        <div class="span6">
+            <div class="row-fluid">
+                {{#clothes.2.shirts}}
+                    <div class="span4">
+                        <h3>{{title}}</h3>
+                        <dl>
+                            <dt>price</dt>
+                            <dd>{{price}}</dd>
+                        </dl>
+                    </div>
+                    <div class="span8">
+                        {{#image}}
+                        <a href="#"><img style="width: 49%; float: left" src="{{src}}"></a>
+                        {{/image}}
+                    </div>
+                {{/clothes.2.shirts}}
+            </div>
+        </div>
+        <div class="span6">
+            <div class="row-fluid">
+                {{#clothes.3.long-sleeve}}
+                    <div class="span4">
+                        <h3>{{title}}</h3>
+                        <dl>
+                            <dt>price</dt>
+                            <dd>{{price}}</dd>
+                        </dl>
+                    </div>
+                    <div class="span8">
+                        {{#image}}
+                        <a href="#"><img style="width: 49%; float: left" src="{{src}}"></a>
+                        {{/image}}
+                    </div>
+                {{/clothes.3.long-sleeve}}
+            </div>
+
+        </div>
+    </div>

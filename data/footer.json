@@ -1,0 +1,14 @@
+{"footer":[
+    {"navTab":[
+        {"url":"#", "buttonName":"Contacts"},
+        {"url":"#", "buttonName":"About"}
+              ]
+    },
+    {"network":[
+        {"url":"#FB", "src":"http://demandware.edgesuite.net/aady_prd/on/demandware.static/Sites-Carters-Site/Sites-Carters-Library/default/v1351149079368/content/carters/homecontent/social/facebook_logo.png"},
+        {"url":"#tw", "src":"http://demandware.edgesuite.net/aady_prd/on/demandware.static/Sites-Carters-Site/Sites-Carters-Library/default/v1351149079368/content/carters/homecontent/social/twitter_logo.png"},
+        {"url":"#YT", "src":"http://demandware.edgesuite.net/aady_prd/on/demandware.static/Sites-Carters-Site/Sites-Carters-Library/default/v1351149079368/content/carters/homecontent/social/youtube_logo.png"}
+                ]
+    }
+]
+}

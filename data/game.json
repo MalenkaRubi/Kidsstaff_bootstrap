@@ -1,0 +1,6 @@
+{"games":[
+    {"title":"Let's play with Barbie", "src":"data/img/games/barbie.jpg",
+    "url":"barbie"},
+    {"title": "Cherepaha", "src":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUulYYkFPMWHp0SenN1qnsl1HYEsluUSpXXZWuB20qSB0GIm3C",
+    "url":"cherepaha"}
+]}

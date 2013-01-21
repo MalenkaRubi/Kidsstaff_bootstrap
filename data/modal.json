@@ -1,0 +1,81 @@
+{"modal": [
+    {"nArrivals":[
+                    {"image":[
+                            {"src":"data/img/nArrivals/dress.jpg"},
+                            {"src":"data/img/nArrivals/dress2.jpg"},
+                            {"src":"data/img/nArrivals/dress3.jpg"},
+                            {"src":"data/img/nArrivals/dress4.jpg"}
+                            ],
+                    "price":"20$", "title":"Printed Dress", "brand":"Carter's"
+                    },
+                    {"image":[
+                            {"src":"data/img/nArrivals/dress.jpg"},
+                            {"src":"data/img/nArrivals/dress2.jpg"},
+                            {"src":"data/img/nArrivals/dress3.jpg"},
+                            {"src":"data/img/nArrivals/dress4.jpg"}
+                            ],
+                    "price":"20$", "title":"Printed Dress", "brand":"Carter's"
+                    }
+                 ]
+    },
+    {"halloween":[
+                    {"image":[
+                        {"src":"data/img/Halloween/HC1.jpg"},
+                        {"src":"data/img/Halloween/HC2.jpg"},
+                        {"src":"data/img/Halloween/HC3.jpg"},
+                        {"src":"data/img/Halloween/HC1.jpg"}
+                    ],
+                        "price":"25$", "title":"Halloween Costumes", "brand":"Carter's"
+                    },
+                    {"image":[
+                        {"src":"data/img/Halloween/HC1.jpg"},
+                        {"src":"data/img/Halloween/HC2.jpg"},
+                        {"src":"data/img/Halloween/HC3.jpg"},
+                        {"src":"data/img/Halloween/HC1.jpg"}
+                    ],
+                        "price":"20$", "title":"Halloween Costumes", "brand":"Carter's"
+                    }
+                  ]
+    },
+
+    {"shoes":[
+                    {"image":[
+                        {"src":"data/img/shoes/shoes4.jpg"},
+                        {"src":"data/img/shoes/Shoes1.jpg"},
+                        {"src":"data/img/shoes/Shoes2.jpg"},
+                        {"src":"data/img/shoes/Shoes3.jpg"}
+                             ],
+                        "price":"50$", "title":"Sneakers", "brand":"Carter's"
+                    },
+                    {"image":[
+                        {"src":"data/img/shoes/shoes4.jpg"},
+                        {"src":"data/img/shoes/Shoes1.jpg"},
+                        {"src":"data/img/shoes/Shoes2.jpg"},
+                        {"src":"data/img/shoes/Shoes3.jpg"}
+                             ],
+                        "price":"20$", "title":"Sneakers", "brand":"Carter's"
+                    }
+              ]
+    },
+    {"rascal":[
+                    {"image":[
+                        {"src":"data/img/Rascal/RASCAL.jpg"},
+                        {"src":"data/img/Rascal/RASCAL1.jpg"},
+                        {"src":"data/img/Rascal/RASCAL2.jpg"},
+                        {"src":"data/img/Rascal/RASCAL.jpg"}
+                             ],
+                        "price":"35$", "title":"Little Rascal", "brand":"Carter's"
+                    },
+                    {"image":[
+                        {"src":"data/img/Rascal/RASCAL.jpg"},
+                        {"src":"data/img/Rascal/RASCAL1.jpg"},
+                        {"src":"data/img/Rascal/RASCAL2.jpg"},
+                        {"src":"data/img/Rascal/RASCAL.jpg"}
+                             ],
+                        "price":"20$", "title":"Little Rascal", "brand":"Carter's"
+                    }
+              ]
+    }
+
+]
+}

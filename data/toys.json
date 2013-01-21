@@ -1,0 +1,16 @@
+
+{"toysInfo": [
+   {"title":"Mobile", "toysPics": "data/img/toys/toy1.png",
+    "price":"20$"},
+    {"title":"Soothers", "toysPics": "data/img/toys/toy2.png",
+    "price":"25$"},
+    {"title":"Chair", "toysPics":"data/img/toys/toy3.png",
+    "price":"100$"},
+    {"title":"Chair", "toysPics":"data/img/toys/toy4.png",
+        "price":"100$"},
+    {"title":"Chair", "toysPics":"data/img/toys/toy5.png",
+        "price":"100$"},
+    {"title":"Chair", "toysPics":"data/img/toys/toy6.png",
+        "price":"100$"}
+]
+}
